@@ -96,7 +96,7 @@ ii)HALF SUBTRACTOR
 
 ![exp03f2](https://github.com/user-attachments/assets/1e97a70e-625f-4ab7-b1f2-02343c9b4ac8)
 
-**Output/TIMING Waveform**
+**Output**
 
 i)HALF ADDER
 
